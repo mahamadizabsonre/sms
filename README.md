@@ -1,2 +1,1 @@
-# sms
-stock management system
+Description du projet ici
